@@ -1,3 +1,3 @@
 > module Main where
-> import Distribution.Make (defaultMain)
+> import Distribution.Simple (defaultMain)
 > main = defaultMain
